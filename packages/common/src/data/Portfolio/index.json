@@ -1,19 +1,15 @@
 {
   "SOCIAL_PROFILES": [
     {
-      "icon": "flaticon-facebook-logo",
-      "url": "#"
-    },
-    {
       "icon": "flaticon-twitter-logo-silhouette",
+      "url": "https://twitter.com/spencer_thomas"
+    },
+    {
+      "icon": "flaticon-linkedin-logo-silhouette",
       "url": "#"
     },
     {
-      "icon": "flaticon-instagram",
-      "url": "#"
-    },
-    {
-      "icon": "flaticon-dribble-logo",
+      "icon": "flaticon-github-logo-silhouette",
       "url": "#"
     }
   ],
@@ -29,12 +25,12 @@
       "offset": "0"
     },
     {
-      "label": "AWARDS",
+      "label": "MEDIA",
       "path": "#awards_section",
       "offset": "0"
     },
     {
-      "label": "WHY ME?",
+      "label": "WHAT I DO",
       "path": "#process_section",
       "offset": "0"
     }
@@ -75,7 +71,7 @@
   ],
   "PORTFOLIO_SHOWCASE": [
     {
-      "title": "DESIGN",
+      "title": "UX",
       "portfolioItem": [
         {
           "title": "Canada Media Site",
@@ -124,11 +120,11 @@
       ]
     },
     {
-      "title": "DEVELOPMENT",
+      "title": "STARTUP",
       "portfolioItem": [
         {
-          "title": "Canada Media Site",
-          "description": "An effective and immersive user experience is what catches the attention and spreads a clear message. That's why we attach great importance to the fact that ergonomics serves the design, and that this design is innovative and neat.",
+          "title": "Cooperate Platform",
+          "description": "I founded the funded SaaS software company Cooperate, serving marketing teams all over the world. Cooperate is the Jira for marketers, providing next gen workflow tools for modern marketing teams. At Cooperate I do enterprise sales, customer success and fundraising. Currently executive director",
           "image": "../../assets/image/portfolio/portfolio-1.jpg",
           "link": "#",
           "featuredIn": "AWWWARDS",
@@ -173,18 +169,16 @@
       ]
     },
     {
-      "title": "ANIMATION",
+      "title": "PRODUCT",
       "portfolioItem": [
         {
-          "title": "Canada Media Site",
-          "description": "An effective and immersive user experience is what catches the attention and spreads a clear message. That's why we attach great importance to the fact that ergonomics serves the design, and that this design is innovative and neat.",
+          "title": "LEO: Life Optimised",
+          "description": "A complete SaaS app that runs your goal setting and achievements. Based on mastery learning principles and my own approach to goal setting. I built LEO using a rails backend and React based front end conversion is underway.",
           "image": "../../assets/image/portfolio/portfolio-1.jpg",
-          "link": "#",
+          "link": "https://getleo.co",
           "featuredIn": "AWWWARDS",
           "featuredLink": "#",
-          "view": "4.5K",
-          "love": "1.5K",
-          "feedback": "1.2K",
+          "view": "1000+",
           "buildWith": [
             {
               "content": "React JS"
@@ -222,18 +216,15 @@
       ]
     },
     {
-      "title": "TV ADVERTISEMENT",
+      "title": "EDUCATION",
       "portfolioItem": [
         {
-          "title": "Canada Media Site",
-          "description": "An effective and immersive user experience is what catches the attention and spreads a clear message. That's why we attach great importance to the fact that ergonomics serves the design, and that this design is innovative and neat.",
+          "title": "Victoria University - Industry Advisory",
+          "description": "I sit on the Vice Chancellors advisory board, giving the university a perspective from the tech and startup sectors.",
           "image": "../../assets/image/portfolio/portfolio-1.jpg",
-          "link": "#",
+          "link": "https://www.vu.edu.au/",
           "featuredIn": "AWWWARDS",
           "featuredLink": "#",
-          "view": "4.5K",
-          "love": "1.5K",
-          "feedback": "1.2K",
           "buildWith": [
             {
               "content": "React JS"

@@ -40,9 +40,6 @@ const PortfolioShowcase = ({
             title
             description
             link
-            view
-            love
-            feedback
             featuredIn
             featuredLink
             image {
